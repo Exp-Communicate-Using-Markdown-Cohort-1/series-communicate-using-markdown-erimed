@@ -8,3 +8,12 @@
 git init
 git commit -am "Initial setup"
 ```
+
+### TODOS
+
+- [ ] Cleanup your desk
+- [ ] Deep clean the keyboard
+- [ ] Tidy up the cables with zippers
+- [ ] Montage the new monitor arm
+- [ ] Place the new monitor
+- [ ] Place the new tv
